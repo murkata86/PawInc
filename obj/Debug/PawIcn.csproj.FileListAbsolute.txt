@@ -1,0 +1,6 @@
+D:\C#\Shine\PawIcn\bin\Debug\PawIcn.exe.config
+D:\C#\Shine\PawIcn\bin\Debug\PawIcn.exe
+D:\C#\Shine\PawIcn\bin\Debug\PawIcn.pdb
+D:\C#\Shine\PawIcn\obj\Debug\PawIcn.exe
+D:\C#\Shine\PawIcn\obj\Debug\PawIcn.pdb
+D:\C#\Shine\PawIcn\obj\Debug\PawIcn.csprojResolveAssemblyReference.cache
